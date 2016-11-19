@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HTML Viewer</string>
+    <string name="see_html">Перейти</string>
+    <string name="info_text">Введите адрес-url вида https://www.tut.by/ или https://mail.ru/</string>
+    <string name="empty_url_text">Ваш Url для запроса</string>
+    <string name="no_internet">Нужен доступ в интернет</string>
+    <string name="not_valid_url">Неверный Url адрис</string>
+    <string name="not_load_url">Не могу загрузить указанный Url</string>
+    <string name="progress_dialog_text">Выполнение запроса</string>
+</resources>
